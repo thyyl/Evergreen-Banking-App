@@ -1,5 +1,5 @@
 # Evergreen Banking Application
-USM Computer Science Year 2 CAT201 Project
+CAT201: Project USM Computer Science Year 2 
 - Cheah Chin Xiong 148507
 - Elwin Chiong Zhen Hui 146528
 - Tan Teik Sean 148988
